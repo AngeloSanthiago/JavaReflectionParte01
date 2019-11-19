@@ -1,13 +1,11 @@
 package br.com.alura.alurator.playground.controle;
 
-import java.io.IOException;
-
 public class SubControle extends Controle {
-	private SubControle() throws IOException {
+	private SubControle()  {
 		
 	}
 	
-	private SubControle(String s) throws IOException {
+	private SubControle(String s) {
 		
 	}
 }
